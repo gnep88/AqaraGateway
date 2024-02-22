@@ -673,6 +673,7 @@ DEVICES = [{
         ['13.69.85', 'temperature', 'li battery temperature', None],
         ['13.88.85', None, 'door', None],
         ['4.8.85', None, 'camera connected', None],
+	['14.83.85', None, 'bluetooth', None],
         [None, None, 'lock_event', 'sensor'],
     ]
 }, {
